@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Sreerag 👋
 
-<!--
-**sreerag-p-dev/sreerag-p-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer with 2+ years of experience
+📱 Passionate about building scalable, secure, and high-performance mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Experienced in developing cross-platform mobile apps using Flutter & Dart
+* Strong in BLoC architecture and Clean Architecture
+* Skilled in REST API integration and secure authentication
+* Experience in fintech/mobile banking domain
+* Passionate about building pixel-perfect UI from Figma designs
+
+---
+
+## 🔧 Skills
+
+### 📱 Mobile Development
+
+* Flutter & Dart
+
+### 🧠 Architecture & State Management
+
+* BLoC
+* Clean Architecture
+* MVVM
+* Reusable Widgets
+
+### 🔗 API & Backend
+
+* REST API Integration
+* JSON Parsing
+* Secure Authentication
+
+### ☁️ Firebase & Notifications
+
+* Firebase (Basics)
+* Firebase Cloud Messaging (FCM)
+* Push Notifications
+
+### ⚙️ Tools & DevOps
+
+* Git & GitHub
+* GitHub Actions (CI/CD)
+* Azure DevOps
+
+### 🎨 UI/UX
+
+* Figma to Flutter
+* Pixel-Perfect UI
+* Responsive Layouts
+* Performance Optimization
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [sreerag07.p@gmail.com](mailto:sreerag07.p@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/sreerag-puthiyapura
